@@ -1,3 +1,5 @@
+# WARNING! This repository moved to https://github.com/apertium/apertium-syntax-highlight
+
 # Finite-State Morphology and Constraint Grammar syntax highlighting plugins
 vim: lexc, twolc, xfst, vislcg3 (both rules and stream formats)
 
